@@ -146,3 +146,4 @@ public class EventoUniversitario {
     public List<Actividad> getActividades() {
         return actividades;
     }
+}
